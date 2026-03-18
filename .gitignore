@@ -1,0 +1,7 @@
+# Ignora la cartella dei file compilati
+bin/
+
+# Ignora eventuali cartelle nascoste dell'IDE (se presenti)
+.idea/
+.vscode/
+*.iml
